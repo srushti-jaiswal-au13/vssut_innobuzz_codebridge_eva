@@ -1,0 +1,38 @@
+{
+  "id": "44ce295a-2126-4fa4-9b42-8636e57b375f",
+  "name": "ambulance_service",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 2,
+          "platform": "facebook",
+          "lang": "en",
+          "title": "Select any one of the blue tab to get ambulance. କ୍ଲିକ୍ କରନ୍ତୁ ଏଇ ନୀଲ ବାକ୍ୟ କୁ ଆମ୍ବୁଲାନ୍ସ ଡାକିବା ପାଇଁ।",
+          "replies": [
+            "Government Sector",
+            "Private Sector"
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1542183795,
+  "fallbackIntent": false,
+  "events": []
+}
