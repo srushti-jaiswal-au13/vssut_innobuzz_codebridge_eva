@@ -1,0 +1,50 @@
+[
+  {
+    "id": "00531d2a-5a26-4d06-8a85-29e2d0a9ec48",
+    "data": [
+      {
+        "text": "Capital Hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181128
+  },
+  {
+    "id": "cc73671b-045e-4005-acb6-a948c3c42c2f",
+    "data": [
+      {
+        "text": "Seva Ambulance Service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181073
+  },
+  {
+    "id": "521bf33c-39ae-487d-bab2-76e0d49ee845",
+    "data": [
+      {
+        "text": "Seva Ambulance Service, Capital Hospital",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181073
+  },
+  {
+    "id": "3e383112-6520-4793-ad52-679e77da717f",
+    "data": [
+      {
+        "text": "Seva Ambulance Service, Capital Hospital, Bhubaneswar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1542181073
+  }
+]
